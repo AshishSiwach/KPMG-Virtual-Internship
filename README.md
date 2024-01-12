@@ -3,6 +3,7 @@ KPMG Data Analytics Virtual Internship by Forage
 ## Problem Statement
 1. Sprocket is a company that specializes in high quality bikes and cycling accessories.
 2. The aim is to identify and recommend top 1000 customers based on the 3 datasets provided that can be targeted by their marketing team to drive valuable business decision making.
+3. Used RFM Segmentation to segment customers based on Recency, Frequency and Monetary value of Purchase.
 ## Data Quality Assessment
   ###Issues with the Data
 
